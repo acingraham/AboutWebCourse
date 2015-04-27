@@ -24,6 +24,9 @@ Internal web development course for non-developers at About.com
 ### Exercise Ideas
     - Taking a profile page about an Expert and updating it for yourself
 
+### Misc. Ideas
+    - Create HipChat room for class
+
 ### Curriculum    
 #### Class 1 - HTML
     - Do Now
