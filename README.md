@@ -23,6 +23,8 @@ Internal web development course for non-developers at About.com
 
 ### Exercise Ideas
     - Taking a profile page about an Expert and updating it for yourself
+    - make an animation using the about.com ball/logo
+    - create or reimagine a logo. Could be a logo mash where you make the about.com logo with the theme from a different company's logo.
 
 ### Misc. Ideas
     - Create HipChat room for class
