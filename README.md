@@ -44,6 +44,8 @@ Internal web development course for non-developers at About.com
     - "Can I have a promotion?" project (jQuery)
     - Market share button pressed race. Or just half about.com and half everybody split screen. Whoever taps first or fastest takes over the other screen.
 
+    - make an animation using the about.com ball/logo
+    - create or reimagine a logo. Could be a logo mash where you make the about.com logo with the theme from a different company's logo.
 
 ### Misc. Ideas
     - Create HipChat room for class
