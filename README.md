@@ -9,14 +9,14 @@ Internal web development course for non-developers at About.com
 ## Calendar
 
 ## TODOs
-    - Book facilities to set up room
-    - Request t-shirts
-    - Make certificates
-    - Plan hackathon
-    - Include confluence page along with google doc in case people can't access confluence.
-    - Create hipchat
-    - Create listserv
-    - Email developers
+ - Book facilities to set up room
+ - Request t-shirts
+ - Make certificates
+ - Plan hackathon
+ - Include confluence page along with google doc in case people can't access confluence.
+ - Create hipchat
+ - Create listserv
+ - Email developers
 
 ### Subjects
     - HTML
