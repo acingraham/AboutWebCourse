@@ -40,6 +40,9 @@ Internal web development course for non-developers at About.com
      - img
        - Fix Google
      - a
+     - ul
+     - ol
+     - li
    5. HTML Errors
      - What happens when you have an error in your HTML?
      - How can you detect and correct errors?
