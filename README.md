@@ -46,10 +46,10 @@ Internal web development course for non-developers at About.com
    5. HTML Errors
      - What happens when you have an error in your HTML?
      - How can you detect and correct errors?
-       - Chrome Developer Tools
-       - Editors like Sublime Text
-       - Sites that you can develop on that can give you useful tips as you go (e.g. JSBin, JSFiddle, CodePen)
-       - HTML validation site
+        - Chrome Developer Tools
+        - Editors like Sublime Text
+        - Sites that you can develop on that can give you useful tips as you go (e.g. JSBin, JSFiddle, CodePen)
+        - HTML validation site
 
  5. What to Expect Next and any TODOs before in-class
    1. The first class, what we'll be doing in it, and what to have ready beforehand
