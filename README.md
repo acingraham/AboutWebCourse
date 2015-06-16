@@ -1,57 +1,6 @@
 # AboutWebCourse
 Internal web development course for non-developers at About.com
 
-## Resources
- - https://www.bento.io/
- - http://www.codecademy.com/
- - https://dash.generalassemb.ly/
-
-## Outline
-
-## Calendar
-
-## TODOs
- - Email developers
- - Create hipchat
- - Include confluence page along with google doc in case people can't access confluence.
- - Request t-shirts
- - Make certificates
- - Plan hackathon?
- - Create listserv?
-
-### Subjects
- - HTML
- - CSS
- - variables
- - math operators
- - conditionals
- - functions
- - loops
- - jQuery
- - strings
- - events
- - setInterval and setTimeout
- - Debugging / developer tools
-
-### Bonus subjects
- - Bootstrap
- - Projects
-
-### Exercise Ideas
- - Taking a profile page about an Expert and updating it for yourself
- - Text adventure game
-   - about.com themed where your manager finds you sleeping on the job and such
-   - possibly incorporate people from about
- - "Can I have a promotion?" project (jQuery)
- - Market share button pressed race. Or just half about.com and half everybody split screen. Whoever taps first or fastest takes over the other screen.
-
- - make an animation using the about.com ball/logo
- - create or reimagine a logo. Could be a logo mash where you make the about.com logo with the theme from a different company's logo.
-
-### Misc. Ideas
- - Create HipChat room for class
- - Create nodeschool modules
-
 ### Curriculum    
 #### Class 1 - Overview & HTML
 ##### Pre-class (To be completed before Tuesday, June 23rd)
@@ -98,11 +47,12 @@ Internal web development course for non-developers at About.com
        - Sites that you can develop on that can give you useful tips as you go (e.g. JSBin, JSFiddle, CodePen)
        - HTML validation site
 
- 5. What to Expect Next
+ 5. What to Expect Next and any TODOs before in-class
    1. The first class, what we'll be doing in it, and what to have ready beforehand
      - Bring your laptop
      - Maybe install Sublime Text
      - Perhaps try a basic exercise like loading a locally saved HTML file in your browser.
+   2. What if you have questions before then?
 
  6. Quiz to complete
    1. We won't be giving out grades or sharing scores.  This is solely a way for you to test your own understanding of the material
@@ -159,4 +109,56 @@ Internal web development course for non-developers at About.com
  - Assessment tool quiz?
  - Jeopardy? Perhaps have the teams compete against eachother for the final class. Have a plastic trophy for winning team.
  - Hackathon?
+
+## Resources
+ - http://www.codecademy.com/
+ - https://dash.generalassemb.ly/
+ - https://www.bento.io/
+
+## Outline
+
+## Calendar
+
+## TODOs
+ - Email developers
+ - Create hipchat
+ - Include confluence page along with google doc in case people can't access confluence.
+ - Request t-shirts
+ - Make certificates
+ - Plan hackathon?
+ - Create listserv?
+
+### Subjects
+ - HTML
+ - CSS
+ - variables
+ - math operators
+ - conditionals
+ - functions
+ - loops
+ - jQuery
+ - strings
+ - events
+ - setInterval and setTimeout
+ - Debugging / developer tools
+
+### Bonus subjects
+ - Bootstrap
+ - Projects
+
+### Exercise Ideas
+ - Taking a profile page about an Expert and updating it for yourself
+ - Text adventure game
+   - about.com themed where your manager finds you sleeping on the job and such
+   - possibly incorporate people from about
+ - "Can I have a promotion?" project (jQuery)
+ - Market share button pressed race. Or just half about.com and half everybody split screen. Whoever taps first or fastest takes over the other screen.
+
+ - make an animation using the about.com ball/logo
+ - create or reimagine a logo. Could be a logo mash where you make the about.com logo with the theme from a different company's logo.
+
+### Misc. Ideas
+ - Create HipChat room for class
+ - Create nodeschool modules
+
 
