@@ -36,6 +36,7 @@ Internal web development course for non-developers at About.com
      - html
      - body
      - p
+     - h1 - h6
      - img
        - Fix Google
      - a
