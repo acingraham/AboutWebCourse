@@ -125,9 +125,12 @@ Internal web development course for non-developers at About.com
    - [Pablo the Flamingo](http://pablotheflamingo.com/)
    - [Touch Pianist](http://touchpianist.com/)
    - [Lights](http://lights.helloenjoy.com/)
+   - Add other examples
+ - Consider showing sites with JavaScript disabled
  - Start by doing math in the console
  - Show +, -, *, /, and %
  - Move code into file and run and see that nothing appears to happen
+ - Introduce semicolons
  - Show how to call a function (console.log)
  - alert
  - So far we've just been printing out numbers.  How about some text?  Introduce strings.  Consider introducing typeof
@@ -163,11 +166,14 @@ Internal web development course for non-developers at About.com
  - Additional Resources
    - CodeAcademy
    - CodeSchool?
+   - Eloquent JavaScript
 
 ##### In-class
  - Consider having attendees create a JSBin or Plunkr account
+ - Write some code in the console
  - Alert "Hello world!"
- - Ask the user for their name and then alert "Hello ______!"
+ - 
+ - Ask the user for her name and then alert "Hello ______!"
  - Instead of alerting the user's name, update the HTML to contain the user's name
  - Pay raise calculator - Maybe use Math.random to do a estimate of how much money you'll be making in the next year
  - document.getElementById to set values
